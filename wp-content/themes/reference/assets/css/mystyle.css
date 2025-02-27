@@ -1,0 +1,5 @@
+@media (min-width: 1200px) {
+    .company-skill__content {
+        max-width: 90%;
+    }
+}
