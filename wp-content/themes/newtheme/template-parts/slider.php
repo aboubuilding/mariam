@@ -18,9 +18,17 @@
                                             class="fas fa-arrow-right ms-2"></i></a></div>
                             </div>
                         </div>
+                       
+
                         <div class="col-md-6 text-lg-end text-center">
-                            <div class="hero-img1"><img src="<?php bloginfo('template_directory'); ?>/assets/img/hero/DSC_0132.jpg" alt="hero"></div>
+                            <div class="hero-img1"><img src="<?php bloginfo('template_directory'); ?>/assets/img/hero/DSC_0132.jpg" alt="hero" style="border-radius: 700px; 
+                transform: translateX(20%) translateY(-5%) scale(1.2); 
+                height: 450%; width: 430%;
+              " ></div>
                         </div>
+
+                        
+
                     </div>
                 </div>
                 <div class="hero-shape shape1"><img src="<?php bloginfo('template_directory'); ?>/assets/img/hero/shape_1_1.png" alt="shape"></div>
@@ -50,7 +58,10 @@
                             </div>
                         </div>
                         <div class="col-md-6 text-lg-end text-center">
-                            <div class="hero-img1"><img src="<?php bloginfo('template_directory'); ?>/assets/img/hero/IMG_5049.jpg" alt="hero"></div>
+                            <div class="hero-img1"><img src="<?php bloginfo('template_directory'); ?>/assets/img/hero/IMG_5049.jpg" alt="hero"style="border-radius: 700px; 
+                transform: translateX(17%) translateY(-15%) scale(1.1); 
+                height: 450%; width: 430%;
+              " ></div>
                         </div>
                     </div>
                 </div>
