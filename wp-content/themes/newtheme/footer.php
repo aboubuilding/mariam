@@ -15,25 +15,26 @@
                     <div class="footer-contact">
                         <div class="footer-contact_icon icon-btn"><i class="fal fa-phone"></i></div>
                         <div class="media-body">
-                            <p class="footer-contact_text">Nous contacter :</p><a href="tel%2b11234567890.html"
-                                class="footer-contact_link">+256 214 203 215</a>
+                            <p class="footer-contact_text">Nous contacter :</p><a href="tel+(228) 70 70 93 93.html"
+                                class="footer-contact_link">+(228) 70 70 93 93</a>
                         </div>
                     </div>
                     <div class="divider"></div>
                     <div class="footer-contact">
                         <div class="footer-contact_icon icon-btn"><i class="fal fa-envelope"></i></div>
                         <div class="media-body">
-                            <p class="footer-contact_text">Nous écrire :</p><a href="mailto:info@edura.com"
-                                class="footer-contact_link">info@edura.com</a>
+                            <p class="footer-contact_text">Nous écrire :</p><a href="mailto:contact@ecoleinternationalemariam.net"
+                                class="footer-contact_link">contact@ecoleinternationalemariam.net</a>
                         </div>
                     </div>
                     <div class="divider"></div>
                     <div class="footer-contact">
                         <div class="footer-contact_icon icon-btn"><i class="fal fa-location-dot"></i></div>
                         <div class="media-body">
-                            <p class="footer-contact_text">Notre adresse :</p><a
-                                href="https://www.google.com/maps" class="footer-contact_link">147/I, Green Road,
-                                Dhaka</a>
+                            <p class="footer-contact_text">Notre adresse :<p>B.P. 20259 Lomé-TOGO</p><p>Lomé Togo</p></p><a
+                                href="https://www.google.com/maps/place/%C3%89cole+internationale+MARIAM/@6.2188301,1.1928169,17z/data=!3m1!4b1!4m6!3m5!1s0x10215815b56ac547:0x278a0965b9ff52d9!8m2!3d6.2188248!4d1.1953918!16s%2Fg%2F11c1nyl4lz?entry=ttu&g_ep=EgoyMDI1MDMxMC4wIKXMDSoASAFQAw%3D%3D"
+                                 class="footer-contact_link">
+                                <p>Agoè réserve, 500m à l'Est du Lycée d'Agoè. </p></a>
                         </div>
                     </div>
                 </div>
@@ -46,54 +47,52 @@
                         <div class="col-md-6 col-xxl-3 col-xl-3">
                             <div class="widget footer-widget">
                                 <div class="th-widget-about">
-                                    <div class="about-logo"><a href="index.html"><img src="<?php bloginfo('template_directory'); ?>/assets/img/logo-white.svg"
-                                                alt="Edura"></a></div>
-                                    <p class="about-text">Continually optimize backward manufactured products whereas
-                                        communities negotiate life compelling alignments</p>
+                                    
                                     <div class="th-social">
-                                        <h6 class="title text-white">FOLLOW US ON:</h6><a
-                                            href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a> <a
-                                            href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a> <a
-                                            href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a> <a
-                                            href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a> <a
-                                            href="https://www.skype.com/"><i class="fab fa-skype"></i></a>
+                                        <h6 class="title text-white">NOS RÉSEAUX SOCIAUX:</h6><a
+                                            href="https://www.facebook.com/profile.php?id=100063786871014"><i class="fab fa-facebook-f"></i></a> <a
+                                            href="https://x.com/ECOLEINTMARIAM"><i class="fab fa-twitter"></i></a> <a
+                                            href="https://www.instagram.com/ei_mariam_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><i class="fab fa-instagram"></i></a>
+                                            <a href="https://youtube.com/@ecoleinternationalemariam?si=ocLnIXwi-zWD-pJ4"><i class="fab fa-youtube"></i></a> 
+                                           
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6 col-xl-auto">
                             <div class="widget widget_nav_menu footer-widget">
-                                <h3 class="widget_title">Quick Links</h3>
+                                <h3 class="widget_title">Liens rapides</h3>
                                 <div class="menu-all-pages-container">
-                                    <ul class="menu">
-                                        <li><a href="course.html">Life Coach</a></li>
-                                        <li><a href="course.html">Business Coach</a></li>
-                                        <li><a href="course.html">Health Coach</a></li>
-                                        <li><a href="course.html">Development</a></li>
-                                        <li><a href="course.html">Web Design</a></li>
-                                        <li><a href="course.html">SEO Optimize</a></li>
-                                    </ul>
+                                <ul class="menu" style="color: white;">
+                                    <li><a href="course.html" style="color: white !important;">Acceuil</a></li>
+                                    <li><a href="course.html" style="color: white !important;">Mot du Directeur</a></li>
+                                    <li><a href="course.html" style="color: white !important;">Transport</a></li>
+                                    <li><a href="course.html" style="color: white !important;">Actualité</a></li>
+                                    <li><a href="https://e228000g.index-education.net/E228000G/pronoteprimaire/" style="color: white !important;">Pronote Primaire</a></li>
+                                    <li><a href="https://e228000b.index-education.net/pronote/" style="color: white !important;">Pronote Secondaire</a></li>
+                                </ul>
+
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6 col-xl-auto">
                             <div class="widget widget_nav_menu footer-widget">
-                                <h3 class="widget_title">Resources</h3>
+                                <h3 class="widget_title">Heures d ' ouverture </h3>
                                 <div class="menu-all-pages-container">
-                                    <ul class="menu">
-                                        <li><a href="contact.html">Community</a></li>
-                                        <li><a href="contact.html">Support</a></li>
-                                        <li><a href="contact.html">Video Guides</a></li>
-                                        <li><a href="contact.html">Documentation</a></li>
-                                        <li><a href="contact.html">Security</a></li>
-                                        <li><a href="contact.html">Template</a></li>
+                                    <ul class="menu"style="color: white;">
+                                        <li>Lundi - mardi : 	---> 	7h00 - 17h00</li>
+                                        <li>Mercredi : 	---> 	7h00 - 17h00</li>
+                                        <li>Jeudi - Vendredi : 	---> 	7h00 - 17h00</li>
+                                        <li>Samedi : 	---> 	Fermée</li>
+                                        <li>Dimanche : 	---> 	Fermée</li>
+                                        
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6 col-xxl-3 col-xl-3">
                             <div class="widget newsletter-widget footer-widget">
-                                <h3 class="widget_title">Get in touch!</h3>
+                                <h3 class="widget_title">Entrer en contact!</h3>
                                 <p class="footer-text">Subscribe our newsletter to get our latest Update & news</p>
                                 <form class="newsletter-form form-group"><input class="form-control" type="email"
                                         placeholder="Email Email" required=""> <i class="far fa-envelope"></i> <button

@@ -13,7 +13,7 @@
             <div class="row align-items-center">
                 <div class="col-xl-6">
                     <div class="wcu-img-1">
-                        <div class="img1"><img src="<?php bloginfo('template_directory'); ?>/assets/img/normal/wcu_1_1.png" alt="img"></div>
+                        <div class="img1"><img src="<?php bloginfo('template_directory'); ?>/assets/img/normal/wcu_1_12.JPG" alt="img"></div>
                         
                         <div class="text-end"><a class="th-btn mt-30" href="<?php the_permalink(); ?>">Toutes les specialités   <i
                                     class="far fa-arrow-right ms-1"></i></a></div>
