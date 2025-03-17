@@ -141,9 +141,11 @@
                     <div class="col-auto d-none d-lg-block">
                         <div class="header-links">
                             <ul>
-                                <li><i class="far fa-phone"></i><a href="tel:+11156456825">+111 (564) 568 25</a></li>
+                                <li><i class="far fa-phone"></i><a href="tel:+22870709393">
+                                    +(228) 70 70 93 93
+                                    </a></li>
                                 <li class="d-none d-xl-inline-block"><i class="far fa-envelope"></i><a
-                                        href="mailto:info@Edura.com">info@edura.com</a></li>
+                                        href="mailto:contact@ecoleinternationalemariam.net">contact@ecoleinternationalemariam.net</a></li>
                                
                             </ul>
                         </div>
@@ -153,11 +155,11 @@
                             <ul>
                                 <li>
                                     <div class="header-social"><span class="social-title">Nous suivre :</span>
-                                     <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a> 
+                                     <a href="https://www.facebook.com/profile.php?id=100063786871014"><i class="fab fa-facebook-f"></i></a> 
                                        
                                            
                                             <a
-                                            href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a> 
+                                            href="https://youtube.com/@ecoleinternationalemariam?si=ocLnIXwi-zWD-pJ4" ><i class="fab fa-youtube"></i></a> 
                      
                                         
                                         </div>
