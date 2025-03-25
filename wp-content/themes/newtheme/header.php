@@ -45,6 +45,34 @@
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
 
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+
+
 
 <link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/assets/css/app.min.css">
     <link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/assets/css/fontawesome.min.css">
@@ -99,14 +127,14 @@
                             <li class="menu-item-has-children"><a href="#">Programme francais </a>
                                 <ul class="sub-menu">
                                     <li><a href="<?php bloginfo('url'); ?>/enseignement/maternelle">Maternelle </a></li>
-                                    <li><a href="<?php bloginfo('url'); ?>/primaire">Primaire </a></li>
-                                    <li><a href="<?php bloginfo('url'); ?>/college">College </a></li>
-                                    <li><a href="<?php bloginfo('url'); ?>/lycee">Lycee </a></li>
+                                    <li><a href="<?php bloginfo('url'); ?>/enseignement/primaire">Primaire </a></li>
+                                    <li><a href="<?php bloginfo('url'); ?>/enseignement/college">College </a></li>
+                                    <li><a href="<?php bloginfo('url'); ?>/enseignement/lycee">Lycee </a></li>
                                    
                                 </ul>
                             </li>
-                            <li><a href="<?php bloginfo('url'); ?>/programme-togolais">Programme togolais  </a></li>
-                            <li><a href="<?php bloginfo('url'); ?>/prepa-business-school">Prepa Business School  </a></li>
+                            <li><a href="<?php bloginfo('url'); ?>/enseignement/programme-togolais">Programme togolais  </a></li>
+                            <li><a href="<?php bloginfo('url'); ?>/enseignement/prepa-business-school">Prepa Business School  </a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children"><a href="#">Vie de l' établissement </a>
@@ -212,14 +240,14 @@
                             <li class="menu-item-has-children"><a href="#">Programme francais </a>
                                 <ul class="sub-menu">
                                 <li><a href="<?php bloginfo('url'); ?>/enseignement/maternelle">Maternelle </a></li>
-                                    <li><a href="<?php bloginfo('url'); ?>/primaire">Primaire </a></li>
-                                    <li><a href="<?php bloginfo('url'); ?>/college">College </a></li>
-                                    <li><a href="<?php bloginfo('url'); ?>/lycee">Lycée </a></li>
+                                    <li><a href="<?php bloginfo('url'); ?>/enseignement/primaire">Primaire </a></li>
+                                    <li><a href="<?php bloginfo('url'); ?>/enseignement/college">College </a></li>
+                                    <li><a href="<?php bloginfo('url'); ?>/enseignement/lycee">Lycée </a></li>
                                    
                                 </ul>
                             </li>
-                            <li><a href="<?php bloginfo('url'); ?>/programme-togolais">Programme togolais  </a></li>
-                            <li><a href="<?php bloginfo('url'); ?>/prepa-business-school">Prepa Business School  </a></li>
+                            <li><a href="<?php bloginfo('url'); ?>/enseignement/programme-togolais">Programme togolais  </a></li>
+                            <li><a href="<?php bloginfo('url'); ?>/enseignement/prepa-business-school">Prepa Business School  </a></li>
                         </ul>
                     </li>
                     <li class="menu-item-has-children"><a href="#">Vie de l' établissement </a>
